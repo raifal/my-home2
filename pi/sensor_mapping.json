@@ -1,0 +1,44 @@
+{
+  "sensorMapping": [
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master2/28-000005a4df85/temperature",
+      "id": "VL_SOL"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master2/28-000005a427b6/temperature",
+      "id": "RL_SOL"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master2/28-000004d048e3/temperature",
+      "id": "BOILER_OBEN"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master2/28-000004d01143/temperature",
+      "id": "BOILER_UNTEN"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master1/28-000005a47f90/temperature",
+      "id": "VL_HEIZUNG"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master1/28-000005a4b1a2/temperature",
+      "id": "RL_HEIZUNG"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master1/28-000005a54faf/temperature",
+      "id": "VL_WW"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master1/28-000005a436b4/temperature",
+      "id": "RL_WW"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master1/28-000005a4b51a/temperature",
+      "id": "VL_PRIMAER"
+    },
+    {
+      "path": "/sys/bus/w1/devices/w1_bus_master1/28-000005a48d93/temperature",
+      "id": "RL_PRIMAER"
+    }
+  ]
+}

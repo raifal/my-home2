@@ -1,0 +1,23 @@
+{'client': 'bbb', 'hsm-data-type': 'temperature', 'temperatures': [
+        {'id': 'VL_SOL', 'temperature': '20625'
+        },
+        {'id': 'RL_SOL', 'temperature': '20312'
+        },
+        {'id': 'BOILER_OBEN', 'temperature': '27062'
+        },
+        {'id': 'BOILER_UNTEN', 'temperature': '18562'
+        },
+        {'id': 'VL_HEIZUNG', 'temperature': '60937'
+        },
+        {'id': 'RL_HEIZUNG', 'temperature': '32875'
+        },
+        {'id': 'VL_WW', 'temperature': '32500'
+        },
+        {'id': 'RL_WW', 'temperature': '85000'
+        },
+        {'id': 'VL_PRIMAER', 'temperature': '65875'
+        },
+        {'id': 'RL_PRIMAER', 'temperature': '39750'
+        }
+    ]
+}
